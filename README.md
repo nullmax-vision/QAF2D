@@ -4,11 +4,9 @@
 
 
 
-
 <div align="center">
   <img src="figs/framework.png" width="800"/>
 </div><br/>
-
 
 
 ## Introduction
@@ -17,7 +15,7 @@ This repository is the official implementation of our paper "Enhancing 3D Object
 
 ## Getting Started
 
-Please follow our documentation step by step. If you like our work, please recommend it to your colleagues and friends.
+Please follow the docs below.
 
 1. [**Environment Setup.**](./docs/setup.md)
 2. [**Data Preparation.**](./docs/data_preparation.md)
@@ -33,12 +31,11 @@ Please follow our documentation step by step. If you like our work, please recom
 Comparison of the base detectors and their QAF2D enhanced version on the nuScenes validation split.
 
 ### Note
-
 Due to some internal policies, we do not release the full codebase, and the current 2D detection results are read from a saved file.  
 
 ## Citation
 
-If you find QAF2D is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
+If you find QAF2D  useful in your research or applications, please consider  citing it. Thank you. 
 
 ```bibtex
 @inproceedings{ji2024enhancing,
